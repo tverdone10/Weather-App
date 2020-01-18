@@ -3,3 +3,16 @@ body {
     background-size: fill;
     background-repeat: no-repeat;
 }
+
+label{
+    background-color: white;
+}
+
+.center {
+    margin: 0 auto;
+}
+
+.forecast {
+    float: left;
+    margin: 10px;
+}
